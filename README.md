@@ -1,4 +1,4 @@
 Demo
 ====
 
-Demo project
+My first demo project
